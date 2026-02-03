@@ -38,6 +38,14 @@ const aasir = {
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Aasirwahab&theme=tokyonight&no-frame=true&no-bg=true&column=7)
+
+</div>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
