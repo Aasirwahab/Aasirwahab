@@ -1,4 +1,4 @@
-## Hi there this is Aasir 👋
+##Hi There This Is Aasir
 
 <div align="center">
 
@@ -11,7 +11,7 @@
 <!-- Profile Views & Social Badges -->
 <p>
 <img src="https://komarev.com/ghpvc/?username=Aasirwahab&style=for-the-badge&color=667eea" alt="Profile Views"/>
-<a href="https://www.webvoxelstudio.uk/"><img src="https://img.shields.io/badge/🌐_Portfolio-WebVoxel-667eea?style=for-the-badge" alt="Portfolio"/></a>
+<a href="https://www.webvoxelstudio.uk/"><img src="https://img.shields.io/badge/Website-webvoxelstudio.uk-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://github.com/Aasirwahab?tab=followers"><img src="https://img.shields.io/github/followers/Aasirwahab?style=for-the-badge&color=764ba2&labelColor=667eea" alt="Followers"/></a>
 </p>
 
@@ -24,7 +24,7 @@
 ```javascript
 const aasir = {
     pronouns: "he" | "him",
-    role: "Software Engineer&cofounder of @ WebVoxelStudio",
+    role: "Software Engineer & Co-founder @ WebVoxel",
     location: "🌍 Building from anywhere",
     currentFocus: "Full Stack Web Development & E-commerce Solutions",
     funFact: "I turn caffeine into code ☕→💻"
@@ -60,11 +60,11 @@ const aasir = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### E-commerce & Tools
-![MedusaJS](https://img.shields.io/badge/MedusaJS-7C3AED?style=for-the-badge&logo=medusa&logoColor=white)
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
 
 </div>
 
@@ -74,10 +74,11 @@ const aasir = {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aasirwahab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aasirwahab&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=667eea" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aasirwahab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="GitHub Stats" height="180"/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aasirwahab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9" alt="Top Languages"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aasirwahab&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=667eea" alt="GitHub Streak" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aasirwahab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9" alt="Top Languages" height="180"/>
 
 </div>
 
@@ -87,18 +88,14 @@ const aasir = {
 
 <div align="center">
 
-<a href="https://github.com/Aasirwahab/medusajs-2.0-for-railway-boilerplate">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aasirwahab&repo=medusajs-2.0-for-railway-boilerplate&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2" />
-</a>
-<a href="https://github.com/Aasirwahab/droppshipping">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aasirwahab&repo=droppshipping&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2" />
-</a>
-<a href="https://github.com/Aasirwahab/real-estate-website">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aasirwahab&repo=real-estate-website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2" />
-</a>
-<a href="https://github.com/Aasirwahab/ai-agent">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aasirwahab&repo=ai-agent&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2" />
-</a>
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Dropshipping Store**](https://github.com/Aasirwahab/droppshipping) | E-commerce dropshipping platform | TypeScript, Next.js |
+| [**MedusaJS Boilerplate**](https://github.com/Aasirwahab/medusajs-2.0-for-railway-boilerplate) | Railway-ready MedusaJS template | TypeScript, MedusaJS |
+| [**Real Estate Website**](https://github.com/Aasirwahab/real-estate-website) | Property listing platform | JavaScript, React |
+| [**AI Agent**](https://github.com/Aasirwahab/ai-agent) | Intelligent automation agent | TypeScript |
+| [**HMS Dashboard**](https://github.com/Aasirwahab/HMS-Dashboard) | Hospital Management System | JavaScript |
+| [**Award Winning Site**](https://github.com/Aasirwahab/Award-winning) | Animated award-winning website | JavaScript, GSAP |
 
 </div>
 
@@ -109,12 +106,12 @@ const aasir = {
 <div align="center">
 
 <a href="https://www.webvoxelstudio.uk/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Website-webvoxelstudio.uk-667eea?style=for-the-badge" alt="Website"/>
+  <img src="https://img.shields.io/badge/Website-webvoxelstudio.uk-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
 </a>
 <a href="https://github.com/Aasirwahab" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Aasirwahab-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Aasirwahab-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="mailto:your.email@example.com" target="_blank">
+<a href="mailto:contact@webvoxelstudio.uk" target="_blank">
   <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
@@ -122,11 +119,11 @@ const aasir = {
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/Aasirwahab/Aasirwahab/output/github-snake-dark.svg)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aasirwahab&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=667eea&line=764ba2&point=667eea" width="100%" alt="Contribution Graph"/>
 
 </div>
 
