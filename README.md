@@ -2,15 +2,15 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Aasir%20Wahab&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=55)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=4A90A4&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Specialized+in+TypeScript%2C+React+%26+Node.js;Founder+%40+WebVoxel+Studio;Available+for+new+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=4A90A4&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Specialized+in+TypeScript%2C+React+%26+Node.js;Creative+animations+with+GSAP+%26+Three.js;Available+for+new+opportunities)](https://git.io/typing-svg)
 
 <br>
 
-[![Open to Work](https://img.shields.io/badge/🟢_OPEN_TO_WORK-Available_for_Hire-2ea44f?style=for-the-badge)](mailto:contact@webvoxelstudio.uk)
+[![Open to Work](https://img.shields.io/badge/🟢_OPEN_TO_WORK-Available_for_Hire-2ea44f?style=for-the-badge)](mailto:aasir@webvoxelstudio.uk)
 &nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-webvoxelstudio.uk-1a1a2e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.webvoxelstudio.uk/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-tawny-theta-59.vercel.app/)
 &nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aasirwahab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aasir-wahab-2b19ba2a1/)
 
 </div>
 
@@ -18,19 +18,20 @@
 
 ## About Me
 
-Software Engineer and Co-founder at **[WebVoxel Studio](https://www.webvoxelstudio.uk/)** with expertise in building modern, scalable web applications. I specialize in full-stack development with a focus on e-commerce platforms, SaaS products, and enterprise solutions.
+Software Engineer and Co-founder at **[WebVoxel Studio](https://www.webvoxelstudio.uk/)** with expertise in building modern, scalable web applications. I specialize in full-stack development with a focus on e-commerce platforms, creative animations, and enterprise solutions.
 
 ```javascript
 const aasir = {
     role: "Software Engineer & Co-founder",
     company: "WebVoxel Studio",
-    focus: ["E-commerce Solutions", "SaaS Development", "Enterprise Applications"],
+    focus: ["E-commerce Solutions", "Creative Web Experiences", "SaaS Development"],
     currentStack: ["TypeScript", "Next.js", "Node.js", "PostgreSQL"],
+    creative: ["GSAP", "Framer Motion", "Three.js", "WebGL"],
     learning: ["AI Agents", "System Design", "Cloud Architecture"]
 };
 ```
 
-**Currently:** Building e-commerce platforms with MedusaJS & Next.js, developing AI-powered automation tools, and leading technical projects at WebVoxel.
+**What I do:** I build websites that help brands stand out online. Clean design, smooth animations, and code that just works—no fluff, just results.
 
 ---
 
@@ -45,26 +46,24 @@ const aasir = {
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
 
-### Backend
+### Animation & 3D
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MedusaJS](https://img.shields.io/badge/MedusaJS-7C3AED?style=flat-square&logo=medusa&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-### Database & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-131415?style=flat-square&logo=railway&logoColor=white)
 
 </td>
 </tr>
@@ -72,25 +71,51 @@ const aasir = {
 
 ---
 
-## Featured Projects
+## Client Work
 
-| Project | Description | Technologies | Links |
-|---------|-------------|--------------|-------|
-| **E-commerce Platform** | Full-featured dropshipping store with inventory management, payment processing, and admin dashboard | TypeScript, Next.js, MedusaJS | [View Code](https://github.com/Aasirwahab/droppshipping) |
-| **MedusaJS Boilerplate** | Production-ready MedusaJS 2.0 template optimized for Railway deployment | TypeScript, MedusaJS, Docker | [View Code](https://github.com/Aasirwahab/medusajs-2.0-for-railway-boilerplate) |
-| **Real Estate Platform** | Property listing website with search, filtering, and agent management features | React, JavaScript, Node.js | [View Code](https://github.com/Aasirwahab/real-estate-website) |
-| **AI Automation Agent** | Intelligent automation tool for workflow optimization | TypeScript, AI/ML | [View Code](https://github.com/Aasirwahab/ai-agent) |
-| **HMS Dashboard** | Hospital Management System with patient records and appointment scheduling | JavaScript, React | [View Code](https://github.com/Aasirwahab/HMS-Dashboard) |
+| Project | Description | Live Site |
+|---------|-------------|-----------|
+| **Signature Aroma** | E-commerce platform for fragrance brand | [signaturearoma.co.uk](https://www.signaturearoma.co.uk/) |
+| **Paperhold** | Business solutions website with modern UI | [paperhold.lk](https://www.paperhold.lk/) |
+| **Vantange** | Creative portfolio with immersive animations | [View Project](https://vantange-website-portfilo.vercel.app/) |
+| **Aethereal** | Architecture firm website with 3D elements | [View Project](https://architecture-nextjs-theta.vercel.app/) |
+
+---
+
+## Open Source Projects
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **[E-commerce Platform](https://github.com/Aasirwahab/droppshipping)** | Full-featured dropshipping store with admin dashboard | TypeScript, Next.js, MedusaJS |
+| **[MedusaJS Boilerplate](https://github.com/Aasirwahab/medusajs-2.0-for-railway-boilerplate)** | Production-ready template for Railway deployment | TypeScript, MedusaJS, Docker |
+| **[AI Automation Agent](https://github.com/Aasirwahab/ai-agent)** | Intelligent automation tool for workflows | TypeScript, AI/ML |
+| **[HMS Dashboard](https://github.com/Aasirwahab/HMS-Dashboard)** | Hospital Management System | JavaScript, React |
 
 ---
 
 ## GitHub Analytics
 
 <div align="center">
-  
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Aasirwahab&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=1a1a2e&icon_color=4A90A4&text_color=333333&include_all_commits=true&count_private=true" />
-&nbsp;&nbsp;&nbsp;
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aasirwahab&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=1a1a2e&text_color=333333&langs_count=6" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Aasirwahab&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Aasirwahab&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Aasirwahab&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Aasirwahab&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Aasirwahab&theme=default&hide_border=true" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aasirwahab&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Aasirwahab&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Aasirwahab&theme=minimal&hide_border=true&area=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aasirwahab&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" />
+</picture>
 
 </div>
 
@@ -98,15 +123,15 @@ const aasir = {
 
 ## Let's Connect
 
-I'm actively seeking new opportunities where I can contribute my expertise in full-stack development, lead technical initiatives, and help build impactful products.
+I'm actively seeking new opportunities where I can contribute my expertise in full-stack development and creative web experiences.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-contact@webvoxelstudio.uk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@webvoxelstudio.uk)
+[![Email](https://img.shields.io/badge/Email-aasir@webvoxelstudio.uk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aasir@webvoxelstudio.uk)
 &nbsp;&nbsp;
-[![Website](https://img.shields.io/badge/Website-webvoxelstudio.uk-1a1a2e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.webvoxelstudio.uk/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-tawny-theta-59.vercel.app/)
 &nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Aasirwahab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aasirwahab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aasir-wahab-2b19ba2a1/)
 
 <br><br>
 
