@@ -1,137 +1,116 @@
-##Hi There This Is Aasir
-
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Aasir%20Wahab&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=55" width="100%"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Aasir%20Wahab&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=55)
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+Web+Experiences+That+Matter;Full+Stack+Developer+%40+WebVoxel;TypeScript+%7C+React+%7C+Next.js+%7C+Node.js;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=4A90A4&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Specialized+in+TypeScript%2C+React+%26+Node.js;Founder+%40+WebVoxel+Studio;Available+for+new+opportunities)](https://git.io/typing-svg)
 
-<!-- Profile Views & Social Badges -->
-<p>
-<img src="https://komarev.com/ghpvc/?username=Aasirwahab&style=for-the-badge&color=667eea" alt="Profile Views"/>
-<a href="https://www.webvoxelstudio.uk/"><img src="https://img.shields.io/badge/Website-webvoxelstudio.uk-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://github.com/Aasirwahab?tab=followers"><img src="https://img.shields.io/github/followers/Aasirwahab?style=for-the-badge&color=764ba2&labelColor=667eea" alt="Followers"/></a>
-</p>
+<br>
+
+[![Open to Work](https://img.shields.io/badge/🟢_OPEN_TO_WORK-Available_for_Hire-2ea44f?style=for-the-badge)](mailto:contact@webvoxelstudio.uk)
+&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-webvoxelstudio.uk-1a1a2e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.webvoxelstudio.uk/)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aasirwahab)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
+
+Software Engineer and Co-founder at **[WebVoxel Studio](https://www.webvoxelstudio.uk/)** with expertise in building modern, scalable web applications. I specialize in full-stack development with a focus on e-commerce platforms, SaaS products, and enterprise solutions.
 
 ```javascript
 const aasir = {
-    pronouns: "he" | "him",
-    role: "Software Engineer & Co-founder @ WebVoxel",
-    location: "🌍 Building from anywhere",
-    currentFocus: "Full Stack Web Development & E-commerce Solutions",
-    funFact: "I turn caffeine into code ☕→💻"
+    role: "Software Engineer & Co-founder",
+    company: "WebVoxel Studio",
+    focus: ["E-commerce Solutions", "SaaS Development", "Enterprise Applications"],
+    currentStack: ["TypeScript", "Next.js", "Node.js", "PostgreSQL"],
+    learning: ["AI Agents", "System Design", "Cloud Architecture"]
 };
 ```
 
-- 🔭 Currently working on **E-commerce platforms** with MedusaJS & Next.js
-- 🌱 Learning **AI Agents** and advanced automation
-- 💼 Founder at **[WebVoxel Studio](https://www.webvoxelstudio.uk/)**
-- ⚡ Building: Real Estate platforms, SaaS products, and management systems
+**Currently:** Building e-commerce platforms with MedusaJS & Next.js, developing AI-powered automation tools, and leading technical projects at WebVoxel.
 
 ---
 
-## 🏆 GitHub Trophies
+## Technical Skills
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Aasirwahab&theme=tokyonight&no-frame=true&no-bg=true&column=7)
-
-</div>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<table>
+<tr>
+<td valign="top" width="33%">
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+</td>
+<td valign="top" width="33%">
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MedusaJS](https://img.shields.io/badge/MedusaJS-7C3AED?style=flat-square&logo=medusa&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-</div>
+</td>
+<td valign="top" width="33%">
+
+### Database & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-131415?style=flat-square&logo=railway&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## Featured Projects
+
+| Project | Description | Technologies | Links |
+|---------|-------------|--------------|-------|
+| **E-commerce Platform** | Full-featured dropshipping store with inventory management, payment processing, and admin dashboard | TypeScript, Next.js, MedusaJS | [View Code](https://github.com/Aasirwahab/droppshipping) |
+| **MedusaJS Boilerplate** | Production-ready MedusaJS 2.0 template optimized for Railway deployment | TypeScript, MedusaJS, Docker | [View Code](https://github.com/Aasirwahab/medusajs-2.0-for-railway-boilerplate) |
+| **Real Estate Platform** | Property listing website with search, filtering, and agent management features | React, JavaScript, Node.js | [View Code](https://github.com/Aasirwahab/real-estate-website) |
+| **AI Automation Agent** | Intelligent automation tool for workflow optimization | TypeScript, AI/ML | [View Code](https://github.com/Aasirwahab/ai-agent) |
+| **HMS Dashboard** | Hospital Management System with patient records and appointment scheduling | JavaScript, React | [View Code](https://github.com/Aasirwahab/HMS-Dashboard) |
+
+---
+
+## GitHub Analytics
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=Aasirwahab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="GitHub Stats" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aasirwahab&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=667eea" alt="GitHub Streak" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aasirwahab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9" alt="Top Languages" height="180"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Aasirwahab&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=1a1a2e&icon_color=4A90A4&text_color=333333&include_all_commits=true&count_private=true" />
+&nbsp;&nbsp;&nbsp;
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aasirwahab&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=1a1a2e&text_color=333333&langs_count=6" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## Let's Connect
+
+I'm actively seeking new opportunities where I can contribute my expertise in full-stack development, lead technical initiatives, and help build impactful products.
 
 <div align="center">
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**Dropshipping Store**](https://github.com/Aasirwahab/droppshipping) | E-commerce dropshipping platform | TypeScript, Next.js |
-| [**MedusaJS Boilerplate**](https://github.com/Aasirwahab/medusajs-2.0-for-railway-boilerplate) | Railway-ready MedusaJS template | TypeScript, MedusaJS |
-| [**Real Estate Website**](https://github.com/Aasirwahab/real-estate-website) | Property listing platform | JavaScript, React |
-| [**AI Agent**](https://github.com/Aasirwahab/ai-agent) | Intelligent automation agent | TypeScript |
-| [**HMS Dashboard**](https://github.com/Aasirwahab/HMS-Dashboard) | Hospital Management System | JavaScript |
-| [**Award Winning Site**](https://github.com/Aasirwahab/Award-winning) | Animated award-winning website | JavaScript, GSAP |
+[![Email](https://img.shields.io/badge/Email-contact@webvoxelstudio.uk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@webvoxelstudio.uk)
+&nbsp;&nbsp;
+[![Website](https://img.shields.io/badge/Website-webvoxelstudio.uk-1a1a2e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.webvoxelstudio.uk/)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Aasirwahab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aasirwahab)
 
-</div>
+<br><br>
 
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.webvoxelstudio.uk/" target="_blank">
-  <img src="https://img.shields.io/badge/Website-webvoxelstudio.uk-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-</a>
-<a href="https://github.com/Aasirwahab" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Aasirwahab-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="mailto:contact@webvoxelstudio.uk" target="_blank">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aasirwahab&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=667eea&line=764ba2&point=667eea" width="100%" alt="Contribution Graph"/>
+**💼 Open to:** Full-time roles • Contract work • Freelance projects • Technical consulting
 
 </div>
 
@@ -139,18 +118,6 @@ const aasir = {
 
 <div align="center">
 
-### 💭 Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-### 🤝 Let's Build Something Amazing Together!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer)
 
 </div>
